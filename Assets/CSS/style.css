@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Assets/Images/Quiz.jpg);
+    background-image: url(./Assets/Images/Quiz.jpg);
 }
 .container1 button {
     float: right;
