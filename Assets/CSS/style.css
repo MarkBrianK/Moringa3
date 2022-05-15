@@ -9,4 +9,9 @@ button {
     font-weight: 800;
     background-color: aquamarine;
     color: black;
+}p{
+    font-size: medium;
+}
+p button {
+    background-color: aquamarine;
 }
