@@ -1,0 +1,9 @@
+.answer {
+    cursor: pointer;
+}
+.answer li {
+    list-style: circle;
+}
+.correct {
+    background: linear-gradient(20deg green);
+}
