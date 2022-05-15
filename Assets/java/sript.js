@@ -12,5 +12,5 @@ function result() {
     if (document.getElementById("correct4").checked) {
         score ++;
     }
-    alert ("your score is:" +score);
+    document.write("Your score is:"+score)
 }

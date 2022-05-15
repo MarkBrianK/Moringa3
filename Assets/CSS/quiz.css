@@ -1,12 +1,6 @@
-.answer {
-    cursor: pointer;
+p{
+    font-size: medium;
 }
-.answer li {
-    list-style: circle;
-}
-.correct {
-    background: linear-gradient(20deg green);
-}
-.incorrect {
-    background: linear-gradient( 20deg red);
+p button {
+    background-color: aquamarine;
 }
