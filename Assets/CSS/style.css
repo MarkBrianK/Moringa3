@@ -12,4 +12,8 @@ button {
 }
 p {
     font-size: large;
+    background-color: aquamarine;
+}
+p button {
+    background-color: aquamarine;
 }
