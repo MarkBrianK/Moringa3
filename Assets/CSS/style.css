@@ -4,3 +4,9 @@ body {
 .container1 button {
     float: right;
 }
+button {
+    font-size: 25px;
+    font-weight: 800;
+    background-color: aquamarine;
+    color: black;
+}

@@ -7,3 +7,6 @@
 .correct {
     background: linear-gradient(20deg green);
 }
+.incorrect {
+    background: linear-gradient( 20deg red);
+}
